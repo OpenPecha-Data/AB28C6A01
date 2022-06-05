@@ -1,0 +1,25 @@
+segment_sources:
+  I4FDEE64F:
+    type: origin_type
+    relation: translation
+    language: en
+  IC9224D12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dfad21948f784998b45414c40f0142ce:
+    I4FDEE64F: 3522b3ea7ae8460483789aaf3a31a3dc
+    IC9224D12: 9b08585859934564bfc54d80cb780e27
+  2a6cdc9af7fd49e6bb2dc0a1f1f9e581:
+    I4FDEE64F: fdb68180bc284e508a76a92ad66261d9
+    IC9224D12: ce20f46fa2304f8e92de56a6975b438d
+  4c98627e1896482cb7fcae2f3e3966ff:
+    I4FDEE64F: cd521f6ce06e4b42868180da51aa0180
+    IC9224D12: 271bb528d73f4d39b238e94758fa38ec
+  044824de7bb64fdfba100ef4144da3eb:
+    I4FDEE64F: 1a9abda4fdb9475f8a1b6547ebbe12d3
+    IC9224D12: 7022c4059e2c4c798f0aeccc352e0402
+  f4ff789e48e74881b9525bef425ad7fd:
+    I4FDEE64F: eb48494689da4fc59a75615d1be172b9
+    IC9224D12: b03b9ced230c4497ac824d06ce5fc09e
